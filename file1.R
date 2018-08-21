@@ -17,3 +17,5 @@ iris
 View(iris)
 
 install.packages('ISLR')
+install.packages('NbClust')
+install.packages('amap')

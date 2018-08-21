@@ -178,7 +178,7 @@ students3= read.csv(file.choose())
 library(gsheet)
 url='https://docs.google.com/spreadsheets/d/1h7HU0X_Q4T5h5D1Q36qoK40Tplz94x_HZYHOJJC_edU/edit#gid=1422958175'
 denco= as.data.frame(gsheet2tbl(url))
-
+str(denco)
 
 
 
