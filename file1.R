@@ -19,3 +19,8 @@ View(iris)
 install.packages('ISLR')
 install.packages('NbClust')
 install.packages('amap')
+install.packages('mice')
+install.packages('twitteR')
+install.packages('ROAuth')
+install.packages('syuzhet')
+ 
